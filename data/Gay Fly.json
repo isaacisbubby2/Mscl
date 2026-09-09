@@ -1,1 +1,18 @@
-
+{
+    "id": 147892296,
+    "name": "Gay Fly",
+    "author": "Isaacisbubby2",
+    "creators": [],
+    "verifier": "Isaacisbubby2",
+    "verification": "https://youtu.be/AHYD2eJ3LqY?si=V9HmLVpqwVKufUR2",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+             "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=yEWoOsM1tt4&feature=youtu.be",
+            "percent": 100,
+            "hz": 240   
+                }
+    ]
+}
