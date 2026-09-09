@@ -1,0 +1,18 @@
+{
+    "id": 147892296,
+    "name": "spam said mario what",
+    "author": "Isaacisbubby2",
+    "creators": [],
+    "verifier": "Isaacisbubby2",
+    "verification": "https://youtu.be/PyHyFlSiv9A?si=td9c99vRMN1bDgdn",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+             "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=yEWoOsM1tt4&feature=youtu.be",
+            "percent": 100,
+            "hz": 240   
+                }
+    ]
+}
