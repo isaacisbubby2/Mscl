@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+               {
+             "user": "KingJayden",
+            "link": "https://youtu.be/UUdtlNcUgrI?is=ATcjyVRYS7zlSuRu",
+            "percent": 100,
+            "hz":60   
+                }
     ]
 }
